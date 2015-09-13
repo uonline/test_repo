@@ -1,3 +1,3 @@
 # test_repo
 
-Hey, fishy fishy. Don't get caught!
+Hey, fishy fishy. Don't get caught! Now you're doomed.
